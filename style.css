@@ -1,0 +1,42 @@
+.bg-custom {
+    background-color: rgb(93, 50, 1);
+    
+}
+.bg-custom .nav-link {
+    color: white;
+}
+.bg-custom .custom-text .nav-link{
+    color: white;
+}
+
+.navbar-nav .nav-link.active{
+    color: white !important;
+}
+.container{
+    background-color:beige;
+}
+button {
+    background-color: rgb(104, 54, 14) !important;
+}
+
+.custom-footer {
+    background-color: rgb(93, 50, 1) ;
+}
+.custom-educ {
+    background-color: aliceblue;
+}
+.custom-cont{
+    background-color: rgb(231, 217, 198);
+}
+.contact-photo{
+    width: 250px;
+    height: 250px;
+    border-radius: 70%;
+}
+.custom-about{
+    background-color: aliceblue;
+}
+/* .custom-proj {
+    background-color:rgb(242, 237, 219);
+
+} */
